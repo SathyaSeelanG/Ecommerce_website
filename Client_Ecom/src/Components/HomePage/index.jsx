@@ -118,6 +118,7 @@ function HomePage ()
       <div className='inputClass'>
       <input type='search' title='Search Products' placeholder='Search Products' onChange={handleSearch} ></input>
       <button className='buttonClass' style={{marginLeft: 5}} onClick ={handleClear} > clear </button>
+   <h1 >ERROR to Fetch Data from database</h1>
       </div>
       
      <div className='appClass'>
